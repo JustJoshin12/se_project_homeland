@@ -8,9 +8,7 @@
 }
 
 .lead__title {
-    margin: 0;
-    margin-bottom: 32px;
-    margin-left: 95px;
+    margin: 0 47px 32px 47px;
     font-size: 96px;
     font-weight: 900;
     font-family: "Inter",sans-serif;

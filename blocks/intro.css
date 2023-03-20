@@ -1,0 +1,24 @@
+.intro {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.intro__title {
+  margin: 0;
+  margin-bottom: 40px;
+  font-family: 'Inter' ,sans-serif;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 1.2;
+  text-align: left;
+  padding-left: 100px;
+}
+
+.intro__quote {
+}
+
+.intro__quote-author {
+}
+
+.intro-description {
+}
